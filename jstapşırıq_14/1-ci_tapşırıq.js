@@ -11,7 +11,6 @@
 
 // array.forEacha1()
 
-
 // Bir ana obyektde olan massive ad, adress, profession,
 // indiki vaxti və ana obyekt  __proto__ - su açarları 
 // olan bir obyekt elave etmek lazimdır.
